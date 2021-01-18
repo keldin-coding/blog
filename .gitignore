@@ -2,3 +2,15 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Ignored for purposes
+Gemfile.lock
