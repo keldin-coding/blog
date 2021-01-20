@@ -2,6 +2,7 @@
 layout: post
 title:  "Where is home?"
 date:   2020-09-11 21:09:55 -0700
+categories: personal
 ---
 # Where is Home?
 
